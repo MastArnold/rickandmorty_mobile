@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MarketExample",
-    "slug": "MarketExample",
+    "name": "Rick et Morty",
+    "slug": "RickAndMorty",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
