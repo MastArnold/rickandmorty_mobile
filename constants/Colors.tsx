@@ -8,9 +8,9 @@ export const Colors = {
     text: "#FFFFFF",
   },
   type: {
-    food: "#FFD875",
-    mechanic: "#ABABFE",
-    house: "#75DAFF",
+    human: "#FFD875",
+    alien: "#ABABFE",
+    ghost: "#75DAFF",
     other: "#D5D5D5",
   },
 };
